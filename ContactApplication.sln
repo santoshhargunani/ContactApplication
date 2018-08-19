@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAppService", "ContactAppService\ContactAppService.csproj", "{CEEC3894-D800-47CF-952D-1052D50C9C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactApplication", "ContactApplication\ContactApplication.csproj", "{757843BD-7A36-4777-B689-FD961BBC4EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEEC3894-D800-47CF-952D-1052D50C9C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEEC3894-D800-47CF-952D-1052D50C9C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEEC3894-D800-47CF-952D-1052D50C9C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEEC3894-D800-47CF-952D-1052D50C9C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{757843BD-7A36-4777-B689-FD961BBC4EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757843BD-7A36-4777-B689-FD961BBC4EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757843BD-7A36-4777-B689-FD961BBC4EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757843BD-7A36-4777-B689-FD961BBC4EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
